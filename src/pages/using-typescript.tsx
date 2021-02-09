@@ -1,8 +1,9 @@
 // If you don't want to use TypeScript you can delete this file!
+// @ts-ignore
 import React from "react"
 import { PageProps, Link, graphql } from "gatsby"
 
-import Layout from "../components/layout"
+import Layout from "../components/layout/layout"
 import SEO from "../components/seo"
 
 type DataProps = {
