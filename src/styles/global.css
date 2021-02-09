@@ -2,3 +2,6 @@
 aqui solo estilos globales
 afectara todo el dom
 */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
